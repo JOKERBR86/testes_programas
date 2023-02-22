@@ -1,0 +1,14 @@
+enviando no github	
+para adicionar arquivo ultilize git add
+PS C:\wamp64\www\github > git addd index.html
+PS C:\wamp64\www\github>
+branch-usado para trabalhar em equipe
+-----------
+ultilize git comit-M adicionar a versao e mensagem do seu arquivo
+PS C:\wamp64\www\github> git comit -m "Minha orimeira atualização"
+[master (root--comit) c85f363] Minha primeira atualização
+1 file changed, 12 insert
+
+----
+git remote add origin :copiar comando no site do git huyb
+adicione o comando git push- u origim main para emviar arquivo main ao repositorio
